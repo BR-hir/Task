@@ -1,0 +1,22 @@
+.divContent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div > div {
+    text-align: center;
+    border: solid;
+    border-width: 1px;
+    width: 30%;
+    height: 50px;
+    background-color: #C4DFE6;
+    font-weight: bold;
+    font-family: "ＭＳ ゴシック",sans-serif;
+}
+
+p {
+    display: inline-block;
+    font-weight: bold;
+    font-family: "ＭＳ ゴシック",sans-serif;
+}
